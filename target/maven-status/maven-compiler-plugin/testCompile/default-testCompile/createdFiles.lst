@@ -1,0 +1,13 @@
+exchange/provider/RateProviderFactoryTest$2.class
+exchange/processor/BaseExchangeProcessorTest$FakeProcessor.class
+exchange/processor/ExchangeProcessorTest.class
+exchange/provider/TourismProviderTest.class
+exchange/processor/BaseExchangeProcessorTest$StepsProcessor.class
+exchange/provider/RateProviderFactoryTest.class
+exchange/cache/RateCacheTest.class
+exchange/processor/BaseExchangeProcessorTest.class
+exchange/payment/PaymentCalculatorTest.class
+exchange/provider/CommercialProviderTest.class
+exchange/payment/PaymentStrategyTest.class
+exchange/provider/PtaxProviderTest.class
+exchange/provider/RateProviderFactoryTest$1.class

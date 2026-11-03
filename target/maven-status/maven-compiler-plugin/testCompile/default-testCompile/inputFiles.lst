@@ -1,0 +1,9 @@
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/payment/PaymentStrategyTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/provider/CommercialProviderTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/processor/BaseExchangeProcessorTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/provider/RateProviderFactoryTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/cache/RateCacheTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/provider/PtaxProviderTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/provider/TourismProviderTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/processor/ExchangeProcessorTest.java
+/home/gabhriel/faculdade/season-9 (overtime)/aspectos/padroes-tema-cambio/src/test/java/exchange/payment/PaymentCalculatorTest.java
